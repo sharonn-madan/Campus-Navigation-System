@@ -1,6 +1,6 @@
 # Campus-Navigation-System-for-Thapar-University
 
-The **Campus Navigation System** is designed to make campus navigation in Thapar Institute of Engineering and Technology effortless. Whether you're a new student, visitor, or faculty member, this application ensures you can find your way around the campus with ease. 
+The **Campus Navigation System** is designed to make exploring in Thapar Institute of Engineering and Technology simple and hassle-free. Whether you're a new student, a visitor, or faculty member, this application ensures you can find your way around the campus with ease. 
 
 ---
 
@@ -13,6 +13,7 @@ The **Campus Navigation System** is designed to make campus navigation in Thapar
 - **Backend**: Python (Flask)
 - **Database**: MySQL
 - **Frontend**: HTML, CSS, JavaScript
+- **APIs**: Google Maps API
 
 ---
 
@@ -87,9 +88,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Contact
-For any questions or support, feel free to reach out:
-- **Name**: Sneha
-- **Email**: sneha30404@gmail.com
 
-Thank you for using the Campus Navigation System! 🚶‍♂️
+Project Creator: Sharon Madan - [GitHub Profile](https://github.com/sharonn-madan)
+
+Project Link: [Campus-Navigation-System](https://github.com/sharonn-madan/Campus-Navigation-System)
+
+---
+
+Thank you for using the Campus Navigation System! 
 
