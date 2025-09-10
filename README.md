@@ -31,8 +31,8 @@ Follow these simple steps to get started:
 ### Clone the Repository
 Run the following commands in your terminal:
 ```bash
-git clone <https://github.com/sneha30404/Campus-Navigation-System-for-Thapar-University>
-cd <Campus-Navigation-System-for-Thapar-University>
+git clone https://github.com/sharonn-madan/Campus-Navigation-System.git
+cd Campus-Navigation-System
 ```
 
 ### Install Dependencies
